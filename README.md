@@ -43,7 +43,7 @@ Bienvenido a mi perfil de GitHub. Actualmente, soy estudiante de **Administraci�
 
 ## 📊 Estadísticas de GitHub  
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=julimr05&show_icons=true&theme=radical)  
-![Imagen de informática](https://upload.wikimedia.org/wikipedia/commons/6/6a/Internet_map_1024.jpg)
+
 
 
 
